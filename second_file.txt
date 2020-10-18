@@ -1,1 +1,2 @@
 The second file
+** Someone pushed a new commit **
